@@ -23,3 +23,34 @@
 ```sh
 git clone https://github.com/root2ja/react-performance-toolkit.git
 cd react-performance-toolkit
+```
+
+## 🛠️ Development & Contribution
+1️⃣ Contribution Guidelines
+Fork the repository.
+Create a new feature branch:
+ ```sh
+git checkout -b feature-branch-name
+```
+Make your changes and commit them:
+```sh
+git commit -m "Added new feature"
+```
+Push to your fork and create a pull request.
+2️⃣ Development Setup
+To enable hot reloading and debugging:
+ ```bash
+npm run dev
+```
+## ⚖️ License
+This project is licensed under the MIT License – see the LICENSE file for details.
+
+
+
+## 🌟 Show Your Support
+⭐ If you found this project useful, give it a star on GitHub!
+💬 Feel free to open an issue if you have ideas or suggestions.
+
+## 📩 Connect
+- 💼 [LinkedIn](https://in.linkedin.com/in/rutuja-b)  
+- 🐙 [GitHub](https://github.com/Roo2ja)
